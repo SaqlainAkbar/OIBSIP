@@ -7,7 +7,7 @@
 ## Projects
 | # | Project | Folder |
 |---|---------|--------|
-| 1 | Coming soon | – |
+| 1 | EDA on Retail Sales Data | [DataAnalytics-L1-EDARetailSales](DataAnalytics-L1-EDARetailSales) |
 
 ## Tools
 Python · pandas · NumPy · Matplotlib · Seaborn · scikit-learn · Jupyter Notebook
